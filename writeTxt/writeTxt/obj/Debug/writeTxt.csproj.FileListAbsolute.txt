@@ -1,0 +1,8 @@
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\writeTxt\writeTxt\bin\Debug\writeTxt.exe
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\writeTxt\writeTxt\bin\Debug\writeTxt.pdb
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\writeTxt\writeTxt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\writeTxt\writeTxt\obj\Debug\writeTxt.Form1.resources
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\writeTxt\writeTxt\obj\Debug\writeTxt.Properties.Resources.resources
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\writeTxt\writeTxt\obj\Debug\writeTxt.csproj.GenerateResource.Cache
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\writeTxt\writeTxt\obj\Debug\writeTxt.exe
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\writeTxt\writeTxt\obj\Debug\writeTxt.pdb

@@ -1,0 +1,12 @@
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\LibSys.Form1.resources
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\LibSys.Properties.Resources.resources
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\LibSys.csproj.GenerateResource.Cache
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\bin\Debug\LibSys.exe
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\bin\Debug\LibSys.pdb
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\LibSys.exe
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\LibSys.pdb
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\LibSys.asset.resources
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\LibSys.Media.resources
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\LibSys.Patrons.resources
+C:\Users\Matoshi\Documents\Visual Studio 2008\Projects\LibSys\LibSys\obj\Debug\LibSys.Textbook.resources
